@@ -1,0 +1,47 @@
+Uniprot_sprot.fasta:
+ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz
+
+Uniprot_trambl.fasta.gz:
+ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_trembl.fasta.gz
+
+hairpin.fa.gz (miRBase):
+ftp://mirbase.org/pub/mirbase/CURRENT/hairpin.fa.gz
+
+mature.fa.gz (miRBase):
+ftp://mirbase.org/pub/mirbase/CURRENT/mature.fa.gz
+
+miRBase:
+ftp://mirbase.org/pub/mirbase/CURRENT/miRNA.dat.gz
+
+gene2Refseq:
+ftp://ftp.ncbi.nih.gov/gene/DATA/gene2refseq.gz
+
+gene2ensembl:
+ftp://ftp.ncbi.nih.gov/gene/DATA/gene2ensembl.gz
+
+uniprot_mapping (including GO terms and Gene --> Uniprot)
+ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/idmapping_selected.tab.gz
+
+1. UniProtKB-AC
+2. UniProtKB-ID
+3. GeneID (EntrezGene)
+4. RefSeq
+5. GI
+6. PDB
+7. GO
+8. UniRef100
+9. UniRef90
+10. UniRef50
+11. UniParc
+12. PIR
+13. NCBI-taxon
+14. MIM
+15. UniGene
+16. PubMed
+17. EMBL
+18. EMBL-CDS
+19. Ensembl
+20. Ensembl_TRS
+21. Ensembl_PRO
+22. Additional PubMed
+
